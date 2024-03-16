@@ -1,7 +1,4 @@
 {
-    "platform": "django",
-    "app": "upwork-skills-excel",
-
     "django": {
         "pythonVersion": "3.11"
     }
