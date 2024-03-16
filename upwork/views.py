@@ -8,7 +8,7 @@ from .utils import calc_file_result, calc_text_result
 
 
 def home(request):
-    return render(request, 'base.html')
+    return render(request, 'index.html')
 
 
 @require_http_methods(["POST"])
